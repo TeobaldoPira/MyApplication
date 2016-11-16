@@ -45,6 +45,7 @@ public class MainActivity extends AppCompatActivity {
     private ImageView normalImageView;
 
     //Testando uma alteração para o github...
+    //Testando outra alteração!
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
