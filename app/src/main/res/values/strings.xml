@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="ucrop_label_edit_photo">Cortar imagem</string>
+</resources>
