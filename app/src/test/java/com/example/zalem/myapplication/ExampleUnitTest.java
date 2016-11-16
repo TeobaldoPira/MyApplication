@@ -9,7 +9,7 @@ import static org.junit.Assert.*;
  */
 public class ExampleUnitTest {
 
-    //Testando outra alteração para o github.
+    //Testando outra alteração para o github...
 
     @Test
     public void addition_isCorrect() throws Exception {
