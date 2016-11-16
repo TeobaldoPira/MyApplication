@@ -46,6 +46,7 @@ public class MainActivity extends AppCompatActivity {
 
     //Testando uma alteração para o github...
     //Testando outra alteração!
+    //Alteração feita no próprio github!
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
