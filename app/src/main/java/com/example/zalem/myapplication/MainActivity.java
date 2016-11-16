@@ -44,6 +44,8 @@ public class MainActivity extends AppCompatActivity {
     private CropImageView cropImageView;
     private ImageView normalImageView;
 
+    //Testando uma alteração para o github.
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
